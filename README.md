@@ -1,5 +1,5 @@
-## 🧠 Build an Image Style Transfer Tool using CycleGANs
-#### 🚀 Author: Roxxane Li
+## 🧠 Python For Data Science
+#### 🚀 Author: Joseph Santarcangelo, Abhishek Gagneja & Svitlana Kramar
 
 
 #### 📫 Mentee group assignments from IBM Advance AI for @Infinite Learning
